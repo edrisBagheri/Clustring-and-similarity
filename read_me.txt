@@ -1,0 +1,3 @@
+download data from following link
+
+https://d3c33hcgiwev3.cloudfront.net/rl6kn-JbEemJfgqR2HI2sA_8903e57518cc4e6b82a96ec033fe3a8c_FND04-NB01.ipynb.zip?Expires=1681603200&Signature=j2ZtGYJmS1ejQf~BAYEtcEttvjHA3r7t23hn-QUJLWA7-yODqAFriEAPswV0qd4LepKOC8owp4IQNAbDHvtspF3jN8K5D6PMUztYnVduq8dUQ73rNPqVPH5G-r9menII-e7kPUYte9j2iR1SLlIkt~egQ1OlfDILfnv8PKBsZRQ_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
